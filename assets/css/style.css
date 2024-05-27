@@ -104,10 +104,10 @@ button {
 }
  
 /* Class Selectors */
-.Header1 {
+.text-center {
   text-align: center;
 }
 
-.Nav {
+.text-right {
   text-align: right;
 }
