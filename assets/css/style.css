@@ -7,7 +7,7 @@
 /* Element Selectors */
 body {
   position: relative;
-  font-family: "Goudy Bookletter 1911", sans-serif;
+  font-family: "Goudy Bookletter 1911", "Arial",  sans-serif;
   font-size: 20px;
   background-color: #FDF8F5;
   color: #4F4846;
